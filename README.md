@@ -1,7 +1,8 @@
 <p align="center">
-   <img width="70" height="70" src="https://github.com/Jheimys/assets/blob/master/logoSistema.png" alt="Logo do Projeto">
+   <img width="70" height="70" src="https://raw.githubusercontent.com/viruzvz/logos-svg/master/react.svg" alt="Logo do React">
    <h1 align="center">React Template with AOS Animation</h1> 
 </p>
+
 
 # Welcome! 👋
 
